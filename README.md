@@ -1,0 +1,1 @@
+Shell Extension to the Windows Explorer to use the CXI icons as thumbnails.
